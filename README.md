@@ -1,16 +1,17 @@
-### Hi there 👋
+<h4>Olá pessoal, meu nome é Felipe Ferraz, mas também me refiro-me nos projetos com Fox Team.<h4/>
 
-<!--
-**felipeferrazpublic/felipeferrazpublic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Desenvolvedor Front-End jr e Data Science jr.
 
-Here are some ideas to get you started:
+- Atualmente desenvolvo projetos persoais e alguns pedidos pela minha faculdade.
+ 
+- Meus principais projetos estão aqui -> {Portifólio ainda em construção}
+  
+  <div>
+      <a href="https://github.com/felipeferrazpublic"><a/>
+      <img heigth="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/>
+  <div/>
+  
+  
+  
+- Tecnologias que domino:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
