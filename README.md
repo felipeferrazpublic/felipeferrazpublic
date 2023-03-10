@@ -8,8 +8,8 @@
   
   <div>
       <a href="https://github.com/felipeferrazpublic"><a/>
-      <img heigth="180px" width="40%" src="https://github-readme-stats.vercel.app/api?username=felipeferrazpublic&show_icons=true&theme=tokyonight"/>
-      <img heigth="160px" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFerraz4&layout=compact&theme=tokyonight"/>
+      <img heigth="180px" width="42%" src="https://github-readme-stats.vercel.app/api?username=felipeferrazpublic&show_icons=true&theme=tokyonight"/>
+      <img heigth="160px" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeferrazpublic&layout=compact&theme=tokyonight"/>
   <div/>
 - Tecnologias que domino:
 
